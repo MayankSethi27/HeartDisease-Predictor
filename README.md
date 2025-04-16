@@ -1,12 +1,6 @@
 #  Diabetes Disease Detector
 
-This project is a Machine Learning-based system that predicts whether a person has diabetes or not based on various medical attributes. It uses the **PIMA Indians Diabetes Dataset** sourced from Kaggle.
-
-###  Dataset
-- **Source:** [PIMA Indians Diabetes Dataset on Kaggle](https://www.kaggle.com/datasets/nancyalaswad90/review/data)
-- **Records:** 768 entries
-- **Features:** Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, Age, Outcome (0 or 1)
-
+This project is a Machine Learning-based system that predicts whether a person has diabetes or not based on various medical attributes. 
 ---
 
 ###  What’s included in this project?
