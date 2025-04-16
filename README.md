@@ -6,10 +6,6 @@ This project is aimed at predicting the likelihood of heart disease in patients 
 
 The dataset used contains features like age, sex, chest pain type, resting blood pressure, cholesterol levels, and more.
 
-## Dataset
-
-The dataset for this project was obtained from Kaggle. You can access it [here](https://www.kaggle.com/datasets/amirmahdiabbootalebi/heart-disease).
-
 ## Models Used
 
 1. **Random Forest Classifier**: A robust ensemble learning model used for classification tasks.
